@@ -1,0 +1,1001 @@
+customer_id,name,email,signup_date,country
+CUST0001,Customer B,customer1@example.com,2020-01-05,Polska
+CUST0002,Customer C,customer2@example.com,2020-01-12,Wielka Brytania
+CUST0003,Customer D,customer3@example.com,2020-01-19,Francja
+CUST0004,Customer E,customer4@example.com,2020-01-26,Niemcy
+CUST0005,Customer F,customer5@example.com,2020-02-02,Polska
+CUST0006,Customer G,customer6@example.com,2020-02-09,Polska
+CUST0007,Customer H,customer7@example.com,2020-02-16,Polska
+CUST0008,Customer I,customer8@example.com,2020-02-23,USA
+CUST0009,Customer J,customer9@example.com,2020-03-01,Niemcy
+CUST0010,Customer K,customer10@example.com,2020-03-08,Francja
+CUST0011,Customer L,customer11@example.com,2020-03-15,Polska
+CUST0012,Customer M,customer12@example.com,2020-03-22,Wielka Brytania
+CUST0013,Customer N,customer13@example.com,2020-03-29,USA
+CUST0014,Customer O,customer14@example.com,2020-04-05,Polska
+CUST0015,Customer P,customer15@example.com,2020-04-12,Polska
+CUST0016,Customer Q,customer16@example.com,2020-04-19,Polska
+CUST0017,Customer R,customer17@example.com,2020-04-26,Polska
+CUST0018,Customer S,customer18@example.com,2020-05-03,Niemcy
+CUST0019,Customer T,customer19@example.com,2020-05-10,Polska
+CUST0020,Customer U,customer20@example.com,2020-05-17,Polska
+CUST0021,Customer V,customer21@example.com,2020-05-24,Niemcy
+CUST0022,Customer W,customer22@example.com,2020-05-31,Polska
+CUST0023,Customer X,customer23@example.com,2020-06-07,Polska
+CUST0024,Customer Y,customer24@example.com,2020-06-14,Polska
+CUST0025,Customer Z,customer25@example.com,2020-06-21,Polska
+CUST0026,Customer A,customer26@example.com,2020-06-28,Francja
+CUST0027,Customer B,customer27@example.com,2020-07-05,Polska
+CUST0028,Customer C,customer28@example.com,2020-07-12,Niemcy
+CUST0029,Customer D,customer29@example.com,2020-07-19,Niemcy
+CUST0030,Customer E,customer30@example.com,2020-07-26,Polska
+CUST0031,Customer F,customer31@example.com,2020-08-02,Niemcy
+CUST0032,Customer G,customer32@example.com,2020-08-09,Polska
+CUST0033,Customer H,customer33@example.com,2020-08-16,Polska
+CUST0034,Customer I,customer34@example.com,2020-08-23,Wielka Brytania
+CUST0035,Customer J,customer35@example.com,2020-08-30,Wielka Brytania
+CUST0036,Customer K,customer36@example.com,2020-09-06,USA
+CUST0037,Customer L,customer37@example.com,2020-09-13,Polska
+CUST0038,Customer M,customer38@example.com,2020-09-20,Polska
+CUST0039,Customer N,customer39@example.com,2020-09-27,Niemcy
+CUST0040,Customer O,customer40@example.com,2020-10-04,Polska
+CUST0041,Customer P,customer41@example.com,2020-10-11,Polska
+CUST0042,Customer Q,customer42@example.com,2020-10-18,Polska
+CUST0043,Customer R,customer43@example.com,2020-10-25,Polska
+CUST0044,Customer S,customer44@example.com,2020-11-01,Wielka Brytania
+CUST0045,Customer T,customer45@example.com,2020-11-08,Polska
+CUST0046,Customer U,customer46@example.com,2020-11-15,Niemcy
+CUST0047,Customer V,customer47@example.com,2020-11-22,Polska
+CUST0048,Customer W,customer48@example.com,2020-11-29,Niemcy
+CUST0049,Customer X,customer49@example.com,2020-12-06,Niemcy
+CUST0050,Customer Y,customer50@example.com,2020-12-13,Polska
+CUST0051,Customer Z,customer51@example.com,2020-12-20,Wielka Brytania
+CUST0052,Customer A,customer52@example.com,2020-12-27,Francja
+CUST0053,Customer B,customer53@example.com,2021-01-03,Wielka Brytania
+CUST0054,Customer C,customer54@example.com,2021-01-10,USA
+CUST0055,Customer D,customer55@example.com,2021-01-17,Niemcy
+CUST0056,Customer E,customer56@example.com,2021-01-24,Wielka Brytania
+CUST0057,Customer F,customer57@example.com,2021-01-31,Polska
+CUST0058,Customer G,customer58@example.com,2021-02-07,Polska
+CUST0059,Customer H,customer59@example.com,2021-02-14,Polska
+CUST0060,Customer I,customer60@example.com,2021-02-21,Polska
+CUST0061,Customer J,customer61@example.com,2021-02-28,Polska
+CUST0062,Customer K,customer62@example.com,2021-03-07,Polska
+CUST0063,Customer L,customer63@example.com,2021-03-14,USA
+CUST0064,Customer M,customer64@example.com,2021-03-21,Polska
+CUST0065,Customer N,customer65@example.com,2021-03-28,Polska
+CUST0066,Customer O,customer66@example.com,2021-04-04,Niemcy
+CUST0067,Customer P,customer67@example.com,2021-04-11,Polska
+CUST0068,Customer Q,customer68@example.com,2021-04-18,USA
+CUST0069,Customer R,customer69@example.com,2021-04-25,Polska
+CUST0070,Customer S,customer70@example.com,2021-05-02,Wielka Brytania
+CUST0071,Customer T,customer71@example.com,2021-05-09,Francja
+CUST0072,Customer U,customer72@example.com,2021-05-16,Polska
+CUST0073,Customer V,customer73@example.com,2021-05-23,Polska
+CUST0074,Customer W,customer74@example.com,2021-05-30,USA
+CUST0075,Customer X,customer75@example.com,2021-06-06,Francja
+CUST0076,Customer Y,customer76@example.com,2021-06-13,Francja
+CUST0077,Customer Z,customer77@example.com,2021-06-20,Francja
+CUST0078,Customer A,customer78@example.com,2021-06-27,Polska
+CUST0079,Customer B,customer79@example.com,2021-07-04,Polska
+CUST0080,Customer C,customer80@example.com,2021-07-11,Polska
+CUST0081,Customer D,customer81@example.com,2021-07-18,USA
+CUST0082,Customer E,customer82@example.com,2021-07-25,Niemcy
+CUST0083,Customer F,customer83@example.com,2021-08-01,Polska
+CUST0084,Customer G,customer84@example.com,2021-08-08,Polska
+CUST0085,Customer H,customer85@example.com,2021-08-15,Polska
+CUST0086,Customer I,customer86@example.com,2021-08-22,Polska
+CUST0087,Customer J,customer87@example.com,2021-08-29,Francja
+CUST0088,Customer K,customer88@example.com,2021-09-05,Niemcy
+CUST0089,Customer L,customer89@example.com,2021-09-12,USA
+CUST0090,Customer M,customer90@example.com,2021-09-19,Polska
+CUST0091,Customer N,customer91@example.com,2021-09-26,Polska
+CUST0092,Customer O,customer92@example.com,2021-10-03,Francja
+CUST0093,Customer P,customer93@example.com,2021-10-10,Francja
+CUST0094,Customer Q,customer94@example.com,2021-10-17,Niemcy
+CUST0095,Customer R,customer95@example.com,2021-10-24,Francja
+CUST0096,Customer S,customer96@example.com,2021-10-31,Polska
+CUST0097,Customer T,customer97@example.com,2021-11-07,Niemcy
+CUST0098,Customer U,customer98@example.com,2021-11-14,Polska
+CUST0099,Customer V,customer99@example.com,2021-11-21,Polska
+CUST0100,Customer W,customer100@example.com,2021-11-28,Polska
+CUST0101,Customer X,customer101@example.com,2021-12-05,Polska
+CUST0102,Customer Y,customer102@example.com,2021-12-12,Niemcy
+CUST0103,Customer Z,customer103@example.com,2021-12-19,Polska
+CUST0104,Customer A,customer104@example.com,2021-12-26,Niemcy
+CUST0105,Customer B,customer105@example.com,2022-01-02,Wielka Brytania
+CUST0106,Customer C,customer106@example.com,2022-01-09,Polska
+CUST0107,Customer D,customer107@example.com,2022-01-16,Polska
+CUST0108,Customer E,customer108@example.com,2022-01-23,Francja
+CUST0109,Customer F,customer109@example.com,2022-01-30,Polska
+CUST0110,Customer G,customer110@example.com,2022-02-06,Polska
+CUST0111,Customer H,customer111@example.com,2022-02-13,Polska
+CUST0112,Customer I,customer112@example.com,2022-02-20,Polska
+CUST0113,Customer J,customer113@example.com,2022-02-27,Wielka Brytania
+CUST0114,Customer K,customer114@example.com,2022-03-06,USA
+CUST0115,Customer L,customer115@example.com,2022-03-13,Niemcy
+CUST0116,Customer M,customer116@example.com,2022-03-20,USA
+CUST0117,Customer N,customer117@example.com,2022-03-27,USA
+CUST0118,Customer O,customer118@example.com,2022-04-03,Polska
+CUST0119,Customer P,customer119@example.com,2022-04-10,USA
+CUST0120,Customer Q,customer120@example.com,2022-04-17,Niemcy
+CUST0121,Customer R,customer121@example.com,2022-04-24,USA
+CUST0122,Customer S,customer122@example.com,2022-05-01,USA
+CUST0123,Customer T,customer123@example.com,2022-05-08,Polska
+CUST0124,Customer U,customer124@example.com,2022-05-15,Polska
+CUST0125,Customer V,customer125@example.com,2022-05-22,Polska
+CUST0126,Customer W,customer126@example.com,2022-05-29,Polska
+CUST0127,Customer X,customer127@example.com,2022-06-05,USA
+CUST0128,Customer Y,customer128@example.com,2022-06-12,USA
+CUST0129,Customer Z,customer129@example.com,2022-06-19,Polska
+CUST0130,Customer A,customer130@example.com,2022-06-26,Niemcy
+CUST0131,Customer B,customer131@example.com,2022-07-03,Polska
+CUST0132,Customer C,customer132@example.com,2022-07-10,Polska
+CUST0133,Customer D,customer133@example.com,2022-07-17,Polska
+CUST0134,Customer E,customer134@example.com,2022-07-24,Polska
+CUST0135,Customer F,customer135@example.com,2022-07-31,Wielka Brytania
+CUST0136,Customer G,customer136@example.com,2022-08-07,Polska
+CUST0137,Customer H,customer137@example.com,2022-08-14,Niemcy
+CUST0138,Customer I,customer138@example.com,2022-08-21,Francja
+CUST0139,Customer J,customer139@example.com,2022-08-28,Polska
+CUST0140,Customer K,customer140@example.com,2022-09-04,Wielka Brytania
+CUST0141,Customer L,customer141@example.com,2022-09-11,Wielka Brytania
+CUST0142,Customer M,customer142@example.com,2022-09-18,Polska
+CUST0143,Customer N,customer143@example.com,2022-09-25,Polska
+CUST0144,Customer O,customer144@example.com,2022-10-02,Polska
+CUST0145,Customer P,customer145@example.com,2022-10-09,Polska
+CUST0146,Customer Q,customer146@example.com,2022-10-16,Polska
+CUST0147,Customer R,customer147@example.com,2022-10-23,Niemcy
+CUST0148,Customer S,customer148@example.com,2022-10-30,Niemcy
+CUST0149,Customer T,customer149@example.com,2022-11-06,Polska
+CUST0150,Customer U,customer150@example.com,2022-11-13,Polska
+CUST0151,Customer V,customer151@example.com,2022-11-20,Wielka Brytania
+CUST0152,Customer W,customer152@example.com,2022-11-27,Polska
+CUST0153,Customer X,customer153@example.com,2022-12-04,Polska
+CUST0154,Customer Y,customer154@example.com,2022-12-11,Polska
+CUST0155,Customer Z,customer155@example.com,2022-12-18,Wielka Brytania
+CUST0156,Customer A,customer156@example.com,2022-12-25,Polska
+CUST0157,Customer B,customer157@example.com,2023-01-01,Niemcy
+CUST0158,Customer C,customer158@example.com,2023-01-08,Francja
+CUST0159,Customer D,customer159@example.com,2023-01-15,Polska
+CUST0160,Customer E,customer160@example.com,2023-01-22,Francja
+CUST0161,Customer F,customer161@example.com,2023-01-29,Polska
+CUST0162,Customer G,customer162@example.com,2023-02-05,Niemcy
+CUST0163,Customer H,customer163@example.com,2023-02-12,Niemcy
+CUST0164,Customer I,customer164@example.com,2023-02-19,Niemcy
+CUST0165,Customer J,customer165@example.com,2023-02-26,Polska
+CUST0166,Customer K,customer166@example.com,2023-03-05,USA
+CUST0167,Customer L,customer167@example.com,2023-03-12,Polska
+CUST0168,Customer M,customer168@example.com,2023-03-19,Polska
+CUST0169,Customer N,customer169@example.com,2023-03-26,Polska
+CUST0170,Customer O,customer170@example.com,2023-04-02,Niemcy
+CUST0171,Customer P,customer171@example.com,2023-04-09,Niemcy
+CUST0172,Customer Q,customer172@example.com,2023-04-16,Polska
+CUST0173,Customer R,customer173@example.com,2023-04-23,Niemcy
+CUST0174,Customer S,customer174@example.com,2023-04-30,Polska
+CUST0175,Customer T,customer175@example.com,2023-05-07,Niemcy
+CUST0176,Customer U,customer176@example.com,2023-05-14,Polska
+CUST0177,Customer V,customer177@example.com,2023-05-21,Niemcy
+CUST0178,Customer W,customer178@example.com,2023-05-28,Polska
+CUST0179,Customer X,customer179@example.com,2023-06-04,Wielka Brytania
+CUST0180,Customer Y,customer180@example.com,2023-06-11,Polska
+CUST0181,Customer Z,customer181@example.com,2023-06-18,Polska
+CUST0182,Customer A,customer182@example.com,2023-06-25,Polska
+CUST0183,Customer B,customer183@example.com,2023-07-02,Wielka Brytania
+CUST0184,Customer C,customer184@example.com,2023-07-09,USA
+CUST0185,Customer D,customer185@example.com,2023-07-16,Polska
+CUST0186,Customer E,customer186@example.com,2023-07-23,Niemcy
+CUST0187,Customer F,customer187@example.com,2023-07-30,USA
+CUST0188,Customer G,customer188@example.com,2023-08-06,Niemcy
+CUST0189,Customer H,customer189@example.com,2023-08-13,Niemcy
+CUST0190,Customer I,customer190@example.com,2023-08-20,Polska
+CUST0191,Customer J,customer191@example.com,2023-08-27,Polska
+CUST0192,Customer K,customer192@example.com,2023-09-03,USA
+CUST0193,Customer L,customer193@example.com,2023-09-10,Wielka Brytania
+CUST0194,Customer M,customer194@example.com,2023-09-17,Niemcy
+CUST0195,Customer N,customer195@example.com,2023-09-24,Polska
+CUST0196,Customer O,customer196@example.com,2023-10-01,Polska
+CUST0197,Customer P,customer197@example.com,2023-10-08,Francja
+CUST0198,Customer Q,customer198@example.com,2023-10-15,USA
+CUST0199,Customer R,customer199@example.com,2023-10-22,USA
+CUST0200,Customer S,customer200@example.com,2023-10-29,Francja
+CUST0201,Customer T,customer201@example.com,2023-11-05,Niemcy
+CUST0202,Customer U,customer202@example.com,2023-11-12,Polska
+CUST0203,Customer V,customer203@example.com,2023-11-19,Polska
+CUST0204,Customer W,customer204@example.com,2023-11-26,USA
+CUST0205,Customer X,customer205@example.com,2023-12-03,Niemcy
+CUST0206,Customer Y,customer206@example.com,2023-12-10,Polska
+CUST0207,Customer Z,customer207@example.com,2023-12-17,Polska
+CUST0208,Customer A,customer208@example.com,2023-12-24,Niemcy
+CUST0209,Customer B,customer209@example.com,2023-12-31,Polska
+CUST0210,Customer C,customer210@example.com,2024-01-07,Polska
+CUST0211,Customer D,customer211@example.com,2024-01-14,Niemcy
+CUST0212,Customer E,customer212@example.com,2024-01-21,Niemcy
+CUST0213,Customer F,customer213@example.com,2024-01-28,Niemcy
+CUST0214,Customer G,customer214@example.com,2024-02-04,Polska
+CUST0215,Customer H,customer215@example.com,2024-02-11,Francja
+CUST0216,Customer I,customer216@example.com,2024-02-18,Polska
+CUST0217,Customer J,customer217@example.com,2024-02-25,Polska
+CUST0218,Customer K,customer218@example.com,2024-03-03,Francja
+CUST0219,Customer L,customer219@example.com,2024-03-10,Niemcy
+CUST0220,Customer M,customer220@example.com,2024-03-17,USA
+CUST0221,Customer N,customer221@example.com,2024-03-24,Niemcy
+CUST0222,Customer O,customer222@example.com,2024-03-31,Niemcy
+CUST0223,Customer P,customer223@example.com,2024-04-07,Polska
+CUST0224,Customer Q,customer224@example.com,2024-04-14,Polska
+CUST0225,Customer R,customer225@example.com,2024-04-21,Polska
+CUST0226,Customer S,customer226@example.com,2024-04-28,Polska
+CUST0227,Customer T,customer227@example.com,2024-05-05,Wielka Brytania
+CUST0228,Customer U,customer228@example.com,2024-05-12,Polska
+CUST0229,Customer V,customer229@example.com,2024-05-19,USA
+CUST0230,Customer W,customer230@example.com,2024-05-26,Niemcy
+CUST0231,Customer X,customer231@example.com,2024-06-02,Francja
+CUST0232,Customer Y,customer232@example.com,2024-06-09,Niemcy
+CUST0233,Customer Z,customer233@example.com,2024-06-16,Niemcy
+CUST0234,Customer A,customer234@example.com,2024-06-23,Polska
+CUST0235,Customer B,customer235@example.com,2024-06-30,Polska
+CUST0236,Customer C,customer236@example.com,2024-07-07,Francja
+CUST0237,Customer D,customer237@example.com,2024-07-14,Polska
+CUST0238,Customer E,customer238@example.com,2024-07-21,Polska
+CUST0239,Customer F,customer239@example.com,2024-07-28,Niemcy
+CUST0240,Customer G,customer240@example.com,2024-08-04,Polska
+CUST0241,Customer H,customer241@example.com,2024-08-11,Wielka Brytania
+CUST0242,Customer I,customer242@example.com,2024-08-18,Wielka Brytania
+CUST0243,Customer J,customer243@example.com,2024-08-25,Wielka Brytania
+CUST0244,Customer K,customer244@example.com,2024-09-01,Polska
+CUST0245,Customer L,customer245@example.com,2024-09-08,Polska
+CUST0246,Customer M,customer246@example.com,2024-09-15,Wielka Brytania
+CUST0247,Customer N,customer247@example.com,2024-09-22,Polska
+CUST0248,Customer O,customer248@example.com,2024-09-29,Wielka Brytania
+CUST0249,Customer P,customer249@example.com,2024-10-06,Wielka Brytania
+CUST0250,Customer Q,customer250@example.com,2024-10-13,USA
+CUST0251,Customer R,customer251@example.com,2024-10-20,Polska
+CUST0252,Customer S,customer252@example.com,2024-10-27,Polska
+CUST0253,Customer T,customer253@example.com,2024-11-03,USA
+CUST0254,Customer U,customer254@example.com,2024-11-10,Polska
+CUST0255,Customer V,customer255@example.com,2024-11-17,Polska
+CUST0256,Customer W,customer256@example.com,2024-11-24,Niemcy
+CUST0257,Customer X,customer257@example.com,2024-12-01,Wielka Brytania
+CUST0258,Customer Y,customer258@example.com,2024-12-08,Niemcy
+CUST0259,Customer Z,customer259@example.com,2024-12-15,Niemcy
+CUST0260,Customer A,customer260@example.com,2024-12-22,Polska
+CUST0261,Customer B,customer261@example.com,2024-12-29,Niemcy
+CUST0262,Customer C,customer262@example.com,2025-01-05,Wielka Brytania
+CUST0263,Customer D,customer263@example.com,2025-01-12,Polska
+CUST0264,Customer E,customer264@example.com,2025-01-19,Niemcy
+CUST0265,Customer F,customer265@example.com,2025-01-26,USA
+CUST0266,Customer G,customer266@example.com,2025-02-02,Francja
+CUST0267,Customer H,customer267@example.com,2025-02-09,Niemcy
+CUST0268,Customer I,customer268@example.com,2025-02-16,Francja
+CUST0269,Customer J,customer269@example.com,2025-02-23,Polska
+CUST0270,Customer K,customer270@example.com,2025-03-02,Polska
+CUST0271,Customer L,customer271@example.com,2025-03-09,USA
+CUST0272,Customer M,customer272@example.com,2025-03-16,USA
+CUST0273,Customer N,customer273@example.com,2025-03-23,USA
+CUST0274,Customer O,customer274@example.com,2025-03-30,Wielka Brytania
+CUST0275,Customer P,customer275@example.com,2025-04-06,Niemcy
+CUST0276,Customer Q,customer276@example.com,2025-04-13,Niemcy
+CUST0277,Customer R,customer277@example.com,2025-04-20,Francja
+CUST0278,Customer S,customer278@example.com,2025-04-27,Niemcy
+CUST0279,Customer T,customer279@example.com,2025-05-04,Francja
+CUST0280,Customer U,customer280@example.com,2025-05-11,Francja
+CUST0281,Customer V,customer281@example.com,2025-05-18,USA
+CUST0282,Customer W,customer282@example.com,2025-05-25,Polska
+CUST0283,Customer X,customer283@example.com,2025-06-01,Polska
+CUST0284,Customer Y,customer284@example.com,2025-06-08,Polska
+CUST0285,Customer Z,customer285@example.com,2025-06-15,Niemcy
+CUST0286,Customer A,customer286@example.com,2025-06-22,Polska
+CUST0287,Customer B,customer287@example.com,2025-06-29,Polska
+CUST0288,Customer C,customer288@example.com,2025-07-06,Niemcy
+CUST0289,Customer D,customer289@example.com,2025-07-13,Polska
+CUST0290,Customer E,customer290@example.com,2025-07-20,Niemcy
+CUST0291,Customer F,customer291@example.com,2025-07-27,Polska
+CUST0292,Customer G,customer292@example.com,2025-08-03,Polska
+CUST0293,Customer H,customer293@example.com,2025-08-10,USA
+CUST0294,Customer I,customer294@example.com,2025-08-17,Polska
+CUST0295,Customer J,customer295@example.com,2025-08-24,Polska
+CUST0296,Customer K,customer296@example.com,2025-08-31,Niemcy
+CUST0297,Customer L,customer297@example.com,2025-09-07,Francja
+CUST0298,Customer M,customer298@example.com,2025-09-14,Polska
+CUST0299,Customer N,customer299@example.com,2025-09-21,Niemcy
+CUST0300,Customer O,customer300@example.com,2025-09-28,Polska
+CUST0301,Customer P,customer301@example.com,2025-10-05,Polska
+CUST0302,Customer Q,customer302@example.com,2025-10-12,Niemcy
+CUST0303,Customer R,customer303@example.com,2025-10-19,Niemcy
+CUST0304,Customer S,customer304@example.com,2025-10-26,Niemcy
+CUST0305,Customer T,customer305@example.com,2025-11-02,Francja
+CUST0306,Customer U,customer306@example.com,2025-11-09,Wielka Brytania
+CUST0307,Customer V,customer307@example.com,2025-11-16,Niemcy
+CUST0308,Customer W,customer308@example.com,2025-11-23,Polska
+CUST0309,Customer X,customer309@example.com,2025-11-30,Francja
+CUST0310,Customer Y,customer310@example.com,2025-12-07,Polska
+CUST0311,Customer Z,customer311@example.com,2025-12-14,Polska
+CUST0312,Customer A,customer312@example.com,2025-12-21,Polska
+CUST0313,Customer B,customer313@example.com,2025-12-28,Polska
+CUST0314,Customer C,customer314@example.com,2026-01-04,Wielka Brytania
+CUST0315,Customer D,customer315@example.com,2026-01-11,USA
+CUST0316,Customer E,customer316@example.com,2026-01-18,Niemcy
+CUST0317,Customer F,customer317@example.com,2026-01-25,Polska
+CUST0318,Customer G,customer318@example.com,2026-02-01,Polska
+CUST0319,Customer H,customer319@example.com,2026-02-08,Polska
+CUST0320,Customer I,customer320@example.com,2026-02-15,Polska
+CUST0321,Customer J,customer321@example.com,2026-02-22,Niemcy
+CUST0322,Customer K,customer322@example.com,2026-03-01,Francja
+CUST0323,Customer L,customer323@example.com,2026-03-08,Niemcy
+CUST0324,Customer M,customer324@example.com,2026-03-15,Polska
+CUST0325,Customer N,customer325@example.com,2026-03-22,Wielka Brytania
+CUST0326,Customer O,customer326@example.com,2026-03-29,Francja
+CUST0327,Customer P,customer327@example.com,2026-04-05,Niemcy
+CUST0328,Customer Q,customer328@example.com,2026-04-12,Niemcy
+CUST0329,Customer R,customer329@example.com,2026-04-19,Polska
+CUST0330,Customer S,customer330@example.com,2026-04-26,Polska
+CUST0331,Customer T,customer331@example.com,2026-05-03,Polska
+CUST0332,Customer U,customer332@example.com,2026-05-10,Francja
+CUST0333,Customer V,customer333@example.com,2026-05-17,Polska
+CUST0334,Customer W,customer334@example.com,2026-05-24,Polska
+CUST0335,Customer X,customer335@example.com,2026-05-31,Polska
+CUST0336,Customer Y,customer336@example.com,2026-06-07,Polska
+CUST0337,Customer Z,customer337@example.com,2026-06-14,USA
+CUST0338,Customer A,customer338@example.com,2026-06-21,Francja
+CUST0339,Customer B,customer339@example.com,2026-06-28,Polska
+CUST0340,Customer C,customer340@example.com,2026-07-05,Polska
+CUST0341,Customer D,customer341@example.com,2026-07-12,Polska
+CUST0342,Customer E,customer342@example.com,2026-07-19,Polska
+CUST0343,Customer F,customer343@example.com,2026-07-26,Polska
+CUST0344,Customer G,customer344@example.com,2026-08-02,Polska
+CUST0345,Customer H,customer345@example.com,2026-08-09,Polska
+CUST0346,Customer I,customer346@example.com,2026-08-16,Niemcy
+CUST0347,Customer J,customer347@example.com,2026-08-23,Niemcy
+CUST0348,Customer K,customer348@example.com,2026-08-30,Polska
+CUST0349,Customer L,customer349@example.com,2026-09-06,Polska
+CUST0350,Customer M,customer350@example.com,2026-09-13,Niemcy
+CUST0351,Customer N,customer351@example.com,2026-09-20,Niemcy
+CUST0352,Customer O,customer352@example.com,2026-09-27,USA
+CUST0353,Customer P,customer353@example.com,2026-10-04,Niemcy
+CUST0354,Customer Q,customer354@example.com,2026-10-11,Polska
+CUST0355,Customer R,customer355@example.com,2026-10-18,Polska
+CUST0356,Customer S,customer356@example.com,2026-10-25,Niemcy
+CUST0357,Customer T,customer357@example.com,2026-11-01,Polska
+CUST0358,Customer U,customer358@example.com,2026-11-08,Niemcy
+CUST0359,Customer V,customer359@example.com,2026-11-15,Wielka Brytania
+CUST0360,Customer W,customer360@example.com,2026-11-22,Niemcy
+CUST0361,Customer X,customer361@example.com,2026-11-29,Polska
+CUST0362,Customer Y,customer362@example.com,2026-12-06,Niemcy
+CUST0363,Customer Z,customer363@example.com,2026-12-13,Polska
+CUST0364,Customer A,customer364@example.com,2026-12-20,Niemcy
+CUST0365,Customer B,customer365@example.com,2026-12-27,Wielka Brytania
+CUST0366,Customer C,customer366@example.com,2027-01-03,Polska
+CUST0367,Customer D,customer367@example.com,2027-01-10,Wielka Brytania
+CUST0368,Customer E,customer368@example.com,2027-01-17,Wielka Brytania
+CUST0369,Customer F,customer369@example.com,2027-01-24,Polska
+CUST0370,Customer G,customer370@example.com,2027-01-31,Polska
+CUST0371,Customer H,customer371@example.com,2027-02-07,Polska
+CUST0372,Customer I,customer372@example.com,2027-02-14,Polska
+CUST0373,Customer J,customer373@example.com,2027-02-21,Polska
+CUST0374,Customer K,customer374@example.com,2027-02-28,Niemcy
+CUST0375,Customer L,customer375@example.com,2027-03-07,Polska
+CUST0376,Customer M,customer376@example.com,2027-03-14,Polska
+CUST0377,Customer N,customer377@example.com,2027-03-21,USA
+CUST0378,Customer O,customer378@example.com,2027-03-28,Polska
+CUST0379,Customer P,customer379@example.com,2027-04-04,USA
+CUST0380,Customer Q,customer380@example.com,2027-04-11,Polska
+CUST0381,Customer R,customer381@example.com,2027-04-18,Polska
+CUST0382,Customer S,customer382@example.com,2027-04-25,Niemcy
+CUST0383,Customer T,customer383@example.com,2027-05-02,Niemcy
+CUST0384,Customer U,customer384@example.com,2027-05-09,USA
+CUST0385,Customer V,customer385@example.com,2027-05-16,Francja
+CUST0386,Customer W,customer386@example.com,2027-05-23,USA
+CUST0387,Customer X,customer387@example.com,2027-05-30,Polska
+CUST0388,Customer Y,customer388@example.com,2027-06-06,Polska
+CUST0389,Customer Z,customer389@example.com,2027-06-13,Francja
+CUST0390,Customer A,customer390@example.com,2027-06-20,USA
+CUST0391,Customer B,customer391@example.com,2027-06-27,Wielka Brytania
+CUST0392,Customer C,customer392@example.com,2027-07-04,Polska
+CUST0393,Customer D,customer393@example.com,2027-07-11,Polska
+CUST0394,Customer E,customer394@example.com,2027-07-18,Francja
+CUST0395,Customer F,customer395@example.com,2027-07-25,Polska
+CUST0396,Customer G,customer396@example.com,2027-08-01,Wielka Brytania
+CUST0397,Customer H,customer397@example.com,2027-08-08,USA
+CUST0398,Customer I,customer398@example.com,2027-08-15,Polska
+CUST0399,Customer J,customer399@example.com,2027-08-22,Francja
+CUST0400,Customer K,customer400@example.com,2027-08-29,Francja
+CUST0401,Customer L,customer401@example.com,2027-09-05,Polska
+CUST0402,Customer M,customer402@example.com,2027-09-12,Wielka Brytania
+CUST0403,Customer N,customer403@example.com,2027-09-19,Niemcy
+CUST0404,Customer O,customer404@example.com,2027-09-26,USA
+CUST0405,Customer P,customer405@example.com,2027-10-03,Polska
+CUST0406,Customer Q,customer406@example.com,2027-10-10,USA
+CUST0407,Customer R,customer407@example.com,2027-10-17,Polska
+CUST0408,Customer S,customer408@example.com,2027-10-24,Polska
+CUST0409,Customer T,customer409@example.com,2027-10-31,Wielka Brytania
+CUST0410,Customer U,customer410@example.com,2027-11-07,Polska
+CUST0411,Customer V,customer411@example.com,2027-11-14,Polska
+CUST0412,Customer W,customer412@example.com,2027-11-21,Wielka Brytania
+CUST0413,Customer X,customer413@example.com,2027-11-28,Wielka Brytania
+CUST0414,Customer Y,customer414@example.com,2027-12-05,Niemcy
+CUST0415,Customer Z,customer415@example.com,2027-12-12,Niemcy
+CUST0416,Customer A,customer416@example.com,2027-12-19,Polska
+CUST0417,Customer B,customer417@example.com,2027-12-26,Polska
+CUST0418,Customer C,customer418@example.com,2028-01-02,Polska
+CUST0419,Customer D,customer419@example.com,2028-01-09,Niemcy
+CUST0420,Customer E,customer420@example.com,2028-01-16,Francja
+CUST0421,Customer F,customer421@example.com,2028-01-23,Francja
+CUST0422,Customer G,customer422@example.com,2028-01-30,Francja
+CUST0423,Customer H,customer423@example.com,2028-02-06,Polska
+CUST0424,Customer I,customer424@example.com,2028-02-13,Polska
+CUST0425,Customer J,customer425@example.com,2028-02-20,Polska
+CUST0426,Customer K,customer426@example.com,2028-02-27,Niemcy
+CUST0427,Customer L,customer427@example.com,2028-03-05,Polska
+CUST0428,Customer M,customer428@example.com,2028-03-12,USA
+CUST0429,Customer N,customer429@example.com,2028-03-19,Polska
+CUST0430,Customer O,customer430@example.com,2028-03-26,Polska
+CUST0431,Customer P,customer431@example.com,2028-04-02,Polska
+CUST0432,Customer Q,customer432@example.com,2028-04-09,Francja
+CUST0433,Customer R,customer433@example.com,2028-04-16,Niemcy
+CUST0434,Customer S,customer434@example.com,2028-04-23,Polska
+CUST0435,Customer T,customer435@example.com,2028-04-30,Polska
+CUST0436,Customer U,customer436@example.com,2028-05-07,Francja
+CUST0437,Customer V,customer437@example.com,2028-05-14,Polska
+CUST0438,Customer W,customer438@example.com,2028-05-21,USA
+CUST0439,Customer X,customer439@example.com,2028-05-28,Francja
+CUST0440,Customer Y,customer440@example.com,2028-06-04,Polska
+CUST0441,Customer Z,customer441@example.com,2028-06-11,Polska
+CUST0442,Customer A,customer442@example.com,2028-06-18,Wielka Brytania
+CUST0443,Customer B,customer443@example.com,2028-06-25,Polska
+CUST0444,Customer C,customer444@example.com,2028-07-02,Polska
+CUST0445,Customer D,customer445@example.com,2028-07-09,USA
+CUST0446,Customer E,customer446@example.com,2028-07-16,Wielka Brytania
+CUST0447,Customer F,customer447@example.com,2028-07-23,Wielka Brytania
+CUST0448,Customer G,customer448@example.com,2028-07-30,Francja
+CUST0449,Customer H,customer449@example.com,2028-08-06,Polska
+CUST0450,Customer I,customer450@example.com,2028-08-13,Polska
+CUST0451,Customer J,customer451@example.com,2028-08-20,Francja
+CUST0452,Customer K,customer452@example.com,2028-08-27,Niemcy
+CUST0453,Customer L,customer453@example.com,2028-09-03,Polska
+CUST0454,Customer M,customer454@example.com,2028-09-10,Wielka Brytania
+CUST0455,Customer N,customer455@example.com,2028-09-17,Polska
+CUST0456,Customer O,customer456@example.com,2028-09-24,Polska
+CUST0457,Customer P,customer457@example.com,2028-10-01,Polska
+CUST0458,Customer Q,customer458@example.com,2028-10-08,Polska
+CUST0459,Customer R,customer459@example.com,2028-10-15,Polska
+CUST0460,Customer S,customer460@example.com,2028-10-22,Polska
+CUST0461,Customer T,customer461@example.com,2028-10-29,Polska
+CUST0462,Customer U,customer462@example.com,2028-11-05,Niemcy
+CUST0463,Customer V,customer463@example.com,2028-11-12,Francja
+CUST0464,Customer W,customer464@example.com,2028-11-19,Niemcy
+CUST0465,Customer X,customer465@example.com,2028-11-26,Wielka Brytania
+CUST0466,Customer Y,customer466@example.com,2028-12-03,Polska
+CUST0467,Customer Z,customer467@example.com,2028-12-10,Polska
+CUST0468,Customer A,customer468@example.com,2028-12-17,USA
+CUST0469,Customer B,customer469@example.com,2028-12-24,Polska
+CUST0470,Customer C,customer470@example.com,2028-12-31,Wielka Brytania
+CUST0471,Customer D,customer471@example.com,2029-01-07,Polska
+CUST0472,Customer E,customer472@example.com,2029-01-14,Wielka Brytania
+CUST0473,Customer F,customer473@example.com,2029-01-21,Polska
+CUST0474,Customer G,customer474@example.com,2029-01-28,USA
+CUST0475,Customer H,customer475@example.com,2029-02-04,Niemcy
+CUST0476,Customer I,customer476@example.com,2029-02-11,Wielka Brytania
+CUST0477,Customer J,customer477@example.com,2029-02-18,Polska
+CUST0478,Customer K,customer478@example.com,2029-02-25,Niemcy
+CUST0479,Customer L,customer479@example.com,2029-03-04,Wielka Brytania
+CUST0480,Customer M,customer480@example.com,2029-03-11,Niemcy
+CUST0481,Customer N,customer481@example.com,2029-03-18,Niemcy
+CUST0482,Customer O,customer482@example.com,2029-03-25,Niemcy
+CUST0483,Customer P,customer483@example.com,2029-04-01,Polska
+CUST0484,Customer Q,customer484@example.com,2029-04-08,Niemcy
+CUST0485,Customer R,customer485@example.com,2029-04-15,Niemcy
+CUST0486,Customer S,customer486@example.com,2029-04-22,Wielka Brytania
+CUST0487,Customer T,customer487@example.com,2029-04-29,Polska
+CUST0488,Customer U,customer488@example.com,2029-05-06,Polska
+CUST0489,Customer V,customer489@example.com,2029-05-13,Wielka Brytania
+CUST0490,Customer W,customer490@example.com,2029-05-20,USA
+CUST0491,Customer X,customer491@example.com,2029-05-27,Polska
+CUST0492,Customer Y,customer492@example.com,2029-06-03,Niemcy
+CUST0493,Customer Z,customer493@example.com,2029-06-10,Polska
+CUST0494,Customer A,customer494@example.com,2029-06-17,Polska
+CUST0495,Customer B,customer495@example.com,2029-06-24,Polska
+CUST0496,Customer C,customer496@example.com,2029-07-01,Polska
+CUST0497,Customer D,customer497@example.com,2029-07-08,Niemcy
+CUST0498,Customer E,customer498@example.com,2029-07-15,Polska
+CUST0499,Customer F,customer499@example.com,2029-07-22,Wielka Brytania
+CUST0500,Customer G,customer500@example.com,2029-07-29,Wielka Brytania
+CUST0501,Customer H,customer501@example.com,2029-08-05,Niemcy
+CUST0502,Customer I,customer502@example.com,2029-08-12,Niemcy
+CUST0503,Customer J,customer503@example.com,2029-08-19,Polska
+CUST0504,Customer K,customer504@example.com,2029-08-26,USA
+CUST0505,Customer L,customer505@example.com,2029-09-02,Niemcy
+CUST0506,Customer M,customer506@example.com,2029-09-09,Polska
+CUST0507,Customer N,customer507@example.com,2029-09-16,Wielka Brytania
+CUST0508,Customer O,customer508@example.com,2029-09-23,USA
+CUST0509,Customer P,customer509@example.com,2029-09-30,Wielka Brytania
+CUST0510,Customer Q,customer510@example.com,2029-10-07,Francja
+CUST0511,Customer R,customer511@example.com,2029-10-14,Niemcy
+CUST0512,Customer S,customer512@example.com,2029-10-21,Polska
+CUST0513,Customer T,customer513@example.com,2029-10-28,Wielka Brytania
+CUST0514,Customer U,customer514@example.com,2029-11-04,USA
+CUST0515,Customer V,customer515@example.com,2029-11-11,Polska
+CUST0516,Customer W,customer516@example.com,2029-11-18,Polska
+CUST0517,Customer X,customer517@example.com,2029-11-25,Polska
+CUST0518,Customer Y,customer518@example.com,2029-12-02,USA
+CUST0519,Customer Z,customer519@example.com,2029-12-09,Wielka Brytania
+CUST0520,Customer A,customer520@example.com,2029-12-16,Polska
+CUST0521,Customer B,customer521@example.com,2029-12-23,Niemcy
+CUST0522,Customer C,customer522@example.com,2029-12-30,Polska
+CUST0523,Customer D,customer523@example.com,2030-01-06,Wielka Brytania
+CUST0524,Customer E,customer524@example.com,2030-01-13,USA
+CUST0525,Customer F,customer525@example.com,2030-01-20,USA
+CUST0526,Customer G,customer526@example.com,2030-01-27,Polska
+CUST0527,Customer H,customer527@example.com,2030-02-03,Polska
+CUST0528,Customer I,customer528@example.com,2030-02-10,Polska
+CUST0529,Customer J,customer529@example.com,2030-02-17,Polska
+CUST0530,Customer K,customer530@example.com,2030-02-24,USA
+CUST0531,Customer L,customer531@example.com,2030-03-03,USA
+CUST0532,Customer M,customer532@example.com,2030-03-10,Wielka Brytania
+CUST0533,Customer N,customer533@example.com,2030-03-17,Wielka Brytania
+CUST0534,Customer O,customer534@example.com,2030-03-24,Niemcy
+CUST0535,Customer P,customer535@example.com,2030-03-31,Francja
+CUST0536,Customer Q,customer536@example.com,2030-04-07,Wielka Brytania
+CUST0537,Customer R,customer537@example.com,2030-04-14,USA
+CUST0538,Customer S,customer538@example.com,2030-04-21,Polska
+CUST0539,Customer T,customer539@example.com,2030-04-28,Polska
+CUST0540,Customer U,customer540@example.com,2030-05-05,Polska
+CUST0541,Customer V,customer541@example.com,2030-05-12,Wielka Brytania
+CUST0542,Customer W,customer542@example.com,2030-05-19,Niemcy
+CUST0543,Customer X,customer543@example.com,2030-05-26,Polska
+CUST0544,Customer Y,customer544@example.com,2030-06-02,Niemcy
+CUST0545,Customer Z,customer545@example.com,2030-06-09,Niemcy
+CUST0546,Customer A,customer546@example.com,2030-06-16,Polska
+CUST0547,Customer B,customer547@example.com,2030-06-23,Polska
+CUST0548,Customer C,customer548@example.com,2030-06-30,Niemcy
+CUST0549,Customer D,customer549@example.com,2030-07-07,Niemcy
+CUST0550,Customer E,customer550@example.com,2030-07-14,Francja
+CUST0551,Customer F,customer551@example.com,2030-07-21,Niemcy
+CUST0552,Customer G,customer552@example.com,2030-07-28,USA
+CUST0553,Customer H,customer553@example.com,2030-08-04,Niemcy
+CUST0554,Customer I,customer554@example.com,2030-08-11,Niemcy
+CUST0555,Customer J,customer555@example.com,2030-08-18,USA
+CUST0556,Customer K,customer556@example.com,2030-08-25,Polska
+CUST0557,Customer L,customer557@example.com,2030-09-01,Polska
+CUST0558,Customer M,customer558@example.com,2030-09-08,Polska
+CUST0559,Customer N,customer559@example.com,2030-09-15,Francja
+CUST0560,Customer O,customer560@example.com,2030-09-22,Niemcy
+CUST0561,Customer P,customer561@example.com,2030-09-29,Francja
+CUST0562,Customer Q,customer562@example.com,2030-10-06,Polska
+CUST0563,Customer R,customer563@example.com,2030-10-13,Polska
+CUST0564,Customer S,customer564@example.com,2030-10-20,Polska
+CUST0565,Customer T,customer565@example.com,2030-10-27,Polska
+CUST0566,Customer U,customer566@example.com,2030-11-03,Niemcy
+CUST0567,Customer V,customer567@example.com,2030-11-10,Polska
+CUST0568,Customer W,customer568@example.com,2030-11-17,Polska
+CUST0569,Customer X,customer569@example.com,2030-11-24,Wielka Brytania
+CUST0570,Customer Y,customer570@example.com,2030-12-01,Polska
+CUST0571,Customer Z,customer571@example.com,2030-12-08,Niemcy
+CUST0572,Customer A,customer572@example.com,2030-12-15,Francja
+CUST0573,Customer B,customer573@example.com,2030-12-22,Polska
+CUST0574,Customer C,customer574@example.com,2030-12-29,Niemcy
+CUST0575,Customer D,customer575@example.com,2031-01-05,USA
+CUST0576,Customer E,customer576@example.com,2031-01-12,Wielka Brytania
+CUST0577,Customer F,customer577@example.com,2031-01-19,Polska
+CUST0578,Customer G,customer578@example.com,2031-01-26,Wielka Brytania
+CUST0579,Customer H,customer579@example.com,2031-02-02,Polska
+CUST0580,Customer I,customer580@example.com,2031-02-09,Polska
+CUST0581,Customer J,customer581@example.com,2031-02-16,Polska
+CUST0582,Customer K,customer582@example.com,2031-02-23,Wielka Brytania
+CUST0583,Customer L,customer583@example.com,2031-03-02,Polska
+CUST0584,Customer M,customer584@example.com,2031-03-09,Polska
+CUST0585,Customer N,customer585@example.com,2031-03-16,Niemcy
+CUST0586,Customer O,customer586@example.com,2031-03-23,Polska
+CUST0587,Customer P,customer587@example.com,2031-03-30,Polska
+CUST0588,Customer Q,customer588@example.com,2031-04-06,Polska
+CUST0589,Customer R,customer589@example.com,2031-04-13,Polska
+CUST0590,Customer S,customer590@example.com,2031-04-20,Polska
+CUST0591,Customer T,customer591@example.com,2031-04-27,Polska
+CUST0592,Customer U,customer592@example.com,2031-05-04,Niemcy
+CUST0593,Customer V,customer593@example.com,2031-05-11,Polska
+CUST0594,Customer W,customer594@example.com,2031-05-18,Polska
+CUST0595,Customer X,customer595@example.com,2031-05-25,USA
+CUST0596,Customer Y,customer596@example.com,2031-06-01,Polska
+CUST0597,Customer Z,customer597@example.com,2031-06-08,Niemcy
+CUST0598,Customer A,customer598@example.com,2031-06-15,Polska
+CUST0599,Customer B,customer599@example.com,2031-06-22,Polska
+CUST0600,Customer C,customer600@example.com,2031-06-29,Polska
+CUST0601,Customer D,customer601@example.com,2031-07-06,Polska
+CUST0602,Customer E,customer602@example.com,2031-07-13,Polska
+CUST0603,Customer F,customer603@example.com,2031-07-20,Polska
+CUST0604,Customer G,customer604@example.com,2031-07-27,Polska
+CUST0605,Customer H,customer605@example.com,2031-08-03,Polska
+CUST0606,Customer I,customer606@example.com,2031-08-10,Polska
+CUST0607,Customer J,customer607@example.com,2031-08-17,Polska
+CUST0608,Customer K,customer608@example.com,2031-08-24,Polska
+CUST0609,Customer L,customer609@example.com,2031-08-31,Niemcy
+CUST0610,Customer M,customer610@example.com,2031-09-07,Niemcy
+CUST0611,Customer N,customer611@example.com,2031-09-14,Polska
+CUST0612,Customer O,customer612@example.com,2031-09-21,Francja
+CUST0613,Customer P,customer613@example.com,2031-09-28,Niemcy
+CUST0614,Customer Q,customer614@example.com,2031-10-05,Polska
+CUST0615,Customer R,customer615@example.com,2031-10-12,USA
+CUST0616,Customer S,customer616@example.com,2031-10-19,Wielka Brytania
+CUST0617,Customer T,customer617@example.com,2031-10-26,Polska
+CUST0618,Customer U,customer618@example.com,2031-11-02,Polska
+CUST0619,Customer V,customer619@example.com,2031-11-09,USA
+CUST0620,Customer W,customer620@example.com,2031-11-16,Francja
+CUST0621,Customer X,customer621@example.com,2031-11-23,Polska
+CUST0622,Customer Y,customer622@example.com,2031-11-30,Polska
+CUST0623,Customer Z,customer623@example.com,2031-12-07,Polska
+CUST0624,Customer A,customer624@example.com,2031-12-14,Polska
+CUST0625,Customer B,customer625@example.com,2031-12-21,Niemcy
+CUST0626,Customer C,customer626@example.com,2031-12-28,Polska
+CUST0627,Customer D,customer627@example.com,2032-01-04,Polska
+CUST0628,Customer E,customer628@example.com,2032-01-11,Francja
+CUST0629,Customer F,customer629@example.com,2032-01-18,Polska
+CUST0630,Customer G,customer630@example.com,2032-01-25,Polska
+CUST0631,Customer H,customer631@example.com,2032-02-01,Francja
+CUST0632,Customer I,customer632@example.com,2032-02-08,USA
+CUST0633,Customer J,customer633@example.com,2032-02-15,Niemcy
+CUST0634,Customer K,customer634@example.com,2032-02-22,Niemcy
+CUST0635,Customer L,customer635@example.com,2032-02-29,Polska
+CUST0636,Customer M,customer636@example.com,2032-03-07,Polska
+CUST0637,Customer N,customer637@example.com,2032-03-14,Niemcy
+CUST0638,Customer O,customer638@example.com,2032-03-21,Polska
+CUST0639,Customer P,customer639@example.com,2032-03-28,Polska
+CUST0640,Customer Q,customer640@example.com,2032-04-04,Polska
+CUST0641,Customer R,customer641@example.com,2032-04-11,Polska
+CUST0642,Customer S,customer642@example.com,2032-04-18,Polska
+CUST0643,Customer T,customer643@example.com,2032-04-25,Polska
+CUST0644,Customer U,customer644@example.com,2032-05-02,Polska
+CUST0645,Customer V,customer645@example.com,2032-05-09,Polska
+CUST0646,Customer W,customer646@example.com,2032-05-16,USA
+CUST0647,Customer X,customer647@example.com,2032-05-23,Niemcy
+CUST0648,Customer Y,customer648@example.com,2032-05-30,Niemcy
+CUST0649,Customer Z,customer649@example.com,2032-06-06,Francja
+CUST0650,Customer A,customer650@example.com,2032-06-13,Polska
+CUST0651,Customer B,customer651@example.com,2032-06-20,Polska
+CUST0652,Customer C,customer652@example.com,2032-06-27,Niemcy
+CUST0653,Customer D,customer653@example.com,2032-07-04,Niemcy
+CUST0654,Customer E,customer654@example.com,2032-07-11,Francja
+CUST0655,Customer F,customer655@example.com,2032-07-18,Polska
+CUST0656,Customer G,customer656@example.com,2032-07-25,Polska
+CUST0657,Customer H,customer657@example.com,2032-08-01,Polska
+CUST0658,Customer I,customer658@example.com,2032-08-08,Polska
+CUST0659,Customer J,customer659@example.com,2032-08-15,Niemcy
+CUST0660,Customer K,customer660@example.com,2032-08-22,Niemcy
+CUST0661,Customer L,customer661@example.com,2032-08-29,Polska
+CUST0662,Customer M,customer662@example.com,2032-09-05,Wielka Brytania
+CUST0663,Customer N,customer663@example.com,2032-09-12,Niemcy
+CUST0664,Customer O,customer664@example.com,2032-09-19,Polska
+CUST0665,Customer P,customer665@example.com,2032-09-26,Polska
+CUST0666,Customer Q,customer666@example.com,2032-10-03,Polska
+CUST0667,Customer R,customer667@example.com,2032-10-10,Polska
+CUST0668,Customer S,customer668@example.com,2032-10-17,Polska
+CUST0669,Customer T,customer669@example.com,2032-10-24,Polska
+CUST0670,Customer U,customer670@example.com,2032-10-31,Polska
+CUST0671,Customer V,customer671@example.com,2032-11-07,Polska
+CUST0672,Customer W,customer672@example.com,2032-11-14,USA
+CUST0673,Customer X,customer673@example.com,2032-11-21,Polska
+CUST0674,Customer Y,customer674@example.com,2032-11-28,Niemcy
+CUST0675,Customer Z,customer675@example.com,2032-12-05,Polska
+CUST0676,Customer A,customer676@example.com,2032-12-12,Wielka Brytania
+CUST0677,Customer B,customer677@example.com,2032-12-19,Polska
+CUST0678,Customer C,customer678@example.com,2032-12-26,Polska
+CUST0679,Customer D,customer679@example.com,2033-01-02,Wielka Brytania
+CUST0680,Customer E,customer680@example.com,2033-01-09,USA
+CUST0681,Customer F,customer681@example.com,2033-01-16,USA
+CUST0682,Customer G,customer682@example.com,2033-01-23,Polska
+CUST0683,Customer H,customer683@example.com,2033-01-30,Polska
+CUST0684,Customer I,customer684@example.com,2033-02-06,Niemcy
+CUST0685,Customer J,customer685@example.com,2033-02-13,Wielka Brytania
+CUST0686,Customer K,customer686@example.com,2033-02-20,Niemcy
+CUST0687,Customer L,customer687@example.com,2033-02-27,Niemcy
+CUST0688,Customer M,customer688@example.com,2033-03-06,Polska
+CUST0689,Customer N,customer689@example.com,2033-03-13,Francja
+CUST0690,Customer O,customer690@example.com,2033-03-20,Polska
+CUST0691,Customer P,customer691@example.com,2033-03-27,Polska
+CUST0692,Customer Q,customer692@example.com,2033-04-03,Polska
+CUST0693,Customer R,customer693@example.com,2033-04-10,Niemcy
+CUST0694,Customer S,customer694@example.com,2033-04-17,Polska
+CUST0695,Customer T,customer695@example.com,2033-04-24,Polska
+CUST0696,Customer U,customer696@example.com,2033-05-01,Niemcy
+CUST0697,Customer V,customer697@example.com,2033-05-08,Polska
+CUST0698,Customer W,customer698@example.com,2033-05-15,Niemcy
+CUST0699,Customer X,customer699@example.com,2033-05-22,Polska
+CUST0700,Customer Y,customer700@example.com,2033-05-29,Polska
+CUST0701,Customer Z,customer701@example.com,2033-06-05,Niemcy
+CUST0702,Customer A,customer702@example.com,2033-06-12,Polska
+CUST0703,Customer B,customer703@example.com,2033-06-19,Polska
+CUST0704,Customer C,customer704@example.com,2033-06-26,Polska
+CUST0705,Customer D,customer705@example.com,2033-07-03,Polska
+CUST0706,Customer E,customer706@example.com,2033-07-10,Wielka Brytania
+CUST0707,Customer F,customer707@example.com,2033-07-17,Polska
+CUST0708,Customer G,customer708@example.com,2033-07-24,USA
+CUST0709,Customer H,customer709@example.com,2033-07-31,Polska
+CUST0710,Customer I,customer710@example.com,2033-08-07,Niemcy
+CUST0711,Customer J,customer711@example.com,2033-08-14,Francja
+CUST0712,Customer K,customer712@example.com,2033-08-21,Niemcy
+CUST0713,Customer L,customer713@example.com,2033-08-28,Polska
+CUST0714,Customer M,customer714@example.com,2033-09-04,Polska
+CUST0715,Customer N,customer715@example.com,2033-09-11,Polska
+CUST0716,Customer O,customer716@example.com,2033-09-18,Wielka Brytania
+CUST0717,Customer P,customer717@example.com,2033-09-25,USA
+CUST0718,Customer Q,customer718@example.com,2033-10-02,Wielka Brytania
+CUST0719,Customer R,customer719@example.com,2033-10-09,Polska
+CUST0720,Customer S,customer720@example.com,2033-10-16,Francja
+CUST0721,Customer T,customer721@example.com,2033-10-23,Wielka Brytania
+CUST0722,Customer U,customer722@example.com,2033-10-30,Polska
+CUST0723,Customer V,customer723@example.com,2033-11-06,Polska
+CUST0724,Customer W,customer724@example.com,2033-11-13,Francja
+CUST0725,Customer X,customer725@example.com,2033-11-20,Niemcy
+CUST0726,Customer Y,customer726@example.com,2033-11-27,USA
+CUST0727,Customer Z,customer727@example.com,2033-12-04,Polska
+CUST0728,Customer A,customer728@example.com,2033-12-11,Francja
+CUST0729,Customer B,customer729@example.com,2033-12-18,Polska
+CUST0730,Customer C,customer730@example.com,2033-12-25,Polska
+CUST0731,Customer D,customer731@example.com,2034-01-01,Polska
+CUST0732,Customer E,customer732@example.com,2034-01-08,USA
+CUST0733,Customer F,customer733@example.com,2034-01-15,Niemcy
+CUST0734,Customer G,customer734@example.com,2034-01-22,Niemcy
+CUST0735,Customer H,customer735@example.com,2034-01-29,Polska
+CUST0736,Customer I,customer736@example.com,2034-02-05,USA
+CUST0737,Customer J,customer737@example.com,2034-02-12,Polska
+CUST0738,Customer K,customer738@example.com,2034-02-19,USA
+CUST0739,Customer L,customer739@example.com,2034-02-26,Polska
+CUST0740,Customer M,customer740@example.com,2034-03-05,Polska
+CUST0741,Customer N,customer741@example.com,2034-03-12,Polska
+CUST0742,Customer O,customer742@example.com,2034-03-19,Polska
+CUST0743,Customer P,customer743@example.com,2034-03-26,Francja
+CUST0744,Customer Q,customer744@example.com,2034-04-02,Niemcy
+CUST0745,Customer R,customer745@example.com,2034-04-09,Polska
+CUST0746,Customer S,customer746@example.com,2034-04-16,USA
+CUST0747,Customer T,customer747@example.com,2034-04-23,Polska
+CUST0748,Customer U,customer748@example.com,2034-04-30,Niemcy
+CUST0749,Customer V,customer749@example.com,2034-05-07,Wielka Brytania
+CUST0750,Customer W,customer750@example.com,2034-05-14,Niemcy
+CUST0751,Customer X,customer751@example.com,2034-05-21,Polska
+CUST0752,Customer Y,customer752@example.com,2034-05-28,Wielka Brytania
+CUST0753,Customer Z,customer753@example.com,2034-06-04,Niemcy
+CUST0754,Customer A,customer754@example.com,2034-06-11,Polska
+CUST0755,Customer B,customer755@example.com,2034-06-18,Polska
+CUST0756,Customer C,customer756@example.com,2034-06-25,Francja
+CUST0757,Customer D,customer757@example.com,2034-07-02,Niemcy
+CUST0758,Customer E,customer758@example.com,2034-07-09,Niemcy
+CUST0759,Customer F,customer759@example.com,2034-07-16,USA
+CUST0760,Customer G,customer760@example.com,2034-07-23,Francja
+CUST0761,Customer H,customer761@example.com,2034-07-30,Polska
+CUST0762,Customer I,customer762@example.com,2034-08-06,Polska
+CUST0763,Customer J,customer763@example.com,2034-08-13,Polska
+CUST0764,Customer K,customer764@example.com,2034-08-20,Francja
+CUST0765,Customer L,customer765@example.com,2034-08-27,Polska
+CUST0766,Customer M,customer766@example.com,2034-09-03,Niemcy
+CUST0767,Customer N,customer767@example.com,2034-09-10,Francja
+CUST0768,Customer O,customer768@example.com,2034-09-17,USA
+CUST0769,Customer P,customer769@example.com,2034-09-24,Polska
+CUST0770,Customer Q,customer770@example.com,2034-10-01,USA
+CUST0771,Customer R,customer771@example.com,2034-10-08,Polska
+CUST0772,Customer S,customer772@example.com,2034-10-15,USA
+CUST0773,Customer T,customer773@example.com,2034-10-22,Polska
+CUST0774,Customer U,customer774@example.com,2034-10-29,Polska
+CUST0775,Customer V,customer775@example.com,2034-11-05,Francja
+CUST0776,Customer W,customer776@example.com,2034-11-12,Polska
+CUST0777,Customer X,customer777@example.com,2034-11-19,Polska
+CUST0778,Customer Y,customer778@example.com,2034-11-26,Francja
+CUST0779,Customer Z,customer779@example.com,2034-12-03,Francja
+CUST0780,Customer A,customer780@example.com,2034-12-10,Niemcy
+CUST0781,Customer B,customer781@example.com,2034-12-17,Niemcy
+CUST0782,Customer C,customer782@example.com,2034-12-24,Niemcy
+CUST0783,Customer D,customer783@example.com,2034-12-31,Polska
+CUST0784,Customer E,customer784@example.com,2035-01-07,Polska
+CUST0785,Customer F,customer785@example.com,2035-01-14,Polska
+CUST0786,Customer G,customer786@example.com,2035-01-21,Wielka Brytania
+CUST0787,Customer H,customer787@example.com,2035-01-28,Niemcy
+CUST0788,Customer I,customer788@example.com,2035-02-04,Polska
+CUST0789,Customer J,customer789@example.com,2035-02-11,Polska
+CUST0790,Customer K,customer790@example.com,2035-02-18,Wielka Brytania
+CUST0791,Customer L,customer791@example.com,2035-02-25,Polska
+CUST0792,Customer M,customer792@example.com,2035-03-04,Niemcy
+CUST0793,Customer N,customer793@example.com,2035-03-11,Niemcy
+CUST0794,Customer O,customer794@example.com,2035-03-18,Niemcy
+CUST0795,Customer P,customer795@example.com,2035-03-25,Polska
+CUST0796,Customer Q,customer796@example.com,2035-04-01,USA
+CUST0797,Customer R,customer797@example.com,2035-04-08,Wielka Brytania
+CUST0798,Customer S,customer798@example.com,2035-04-15,Niemcy
+CUST0799,Customer T,customer799@example.com,2035-04-22,Niemcy
+CUST0800,Customer U,customer800@example.com,2035-04-29,Wielka Brytania
+CUST0801,Customer V,customer801@example.com,2035-05-06,Francja
+CUST0802,Customer W,customer802@example.com,2035-05-13,Polska
+CUST0803,Customer X,customer803@example.com,2035-05-20,Niemcy
+CUST0804,Customer Y,customer804@example.com,2035-05-27,Niemcy
+CUST0805,Customer Z,customer805@example.com,2035-06-03,Polska
+CUST0806,Customer A,customer806@example.com,2035-06-10,Francja
+CUST0807,Customer B,customer807@example.com,2035-06-17,Wielka Brytania
+CUST0808,Customer C,customer808@example.com,2035-06-24,Wielka Brytania
+CUST0809,Customer D,customer809@example.com,2035-07-01,Polska
+CUST0810,Customer E,customer810@example.com,2035-07-08,Polska
+CUST0811,Customer F,customer811@example.com,2035-07-15,Wielka Brytania
+CUST0812,Customer G,customer812@example.com,2035-07-22,USA
+CUST0813,Customer H,customer813@example.com,2035-07-29,Polska
+CUST0814,Customer I,customer814@example.com,2035-08-05,Wielka Brytania
+CUST0815,Customer J,customer815@example.com,2035-08-12,USA
+CUST0816,Customer K,customer816@example.com,2035-08-19,Niemcy
+CUST0817,Customer L,customer817@example.com,2035-08-26,Niemcy
+CUST0818,Customer M,customer818@example.com,2035-09-02,Polska
+CUST0819,Customer N,customer819@example.com,2035-09-09,Polska
+CUST0820,Customer O,customer820@example.com,2035-09-16,Polska
+CUST0821,Customer P,customer821@example.com,2035-09-23,USA
+CUST0822,Customer Q,customer822@example.com,2035-09-30,Polska
+CUST0823,Customer R,customer823@example.com,2035-10-07,Polska
+CUST0824,Customer S,customer824@example.com,2035-10-14,Polska
+CUST0825,Customer T,customer825@example.com,2035-10-21,Niemcy
+CUST0826,Customer U,customer826@example.com,2035-10-28,Wielka Brytania
+CUST0827,Customer V,customer827@example.com,2035-11-04,Polska
+CUST0828,Customer W,customer828@example.com,2035-11-11,Polska
+CUST0829,Customer X,customer829@example.com,2035-11-18,Francja
+CUST0830,Customer Y,customer830@example.com,2035-11-25,Polska
+CUST0831,Customer Z,customer831@example.com,2035-12-02,Polska
+CUST0832,Customer A,customer832@example.com,2035-12-09,Polska
+CUST0833,Customer B,customer833@example.com,2035-12-16,Polska
+CUST0834,Customer C,customer834@example.com,2035-12-23,Polska
+CUST0835,Customer D,customer835@example.com,2035-12-30,Polska
+CUST0836,Customer E,customer836@example.com,2036-01-06,Polska
+CUST0837,Customer F,customer837@example.com,2036-01-13,Wielka Brytania
+CUST0838,Customer G,customer838@example.com,2036-01-20,Polska
+CUST0839,Customer H,customer839@example.com,2036-01-27,Niemcy
+CUST0840,Customer I,customer840@example.com,2036-02-03,Niemcy
+CUST0841,Customer J,customer841@example.com,2036-02-10,Polska
+CUST0842,Customer K,customer842@example.com,2036-02-17,Niemcy
+CUST0843,Customer L,customer843@example.com,2036-02-24,Polska
+CUST0844,Customer M,customer844@example.com,2036-03-02,Wielka Brytania
+CUST0845,Customer N,customer845@example.com,2036-03-09,Polska
+CUST0846,Customer O,customer846@example.com,2036-03-16,Polska
+CUST0847,Customer P,customer847@example.com,2036-03-23,Polska
+CUST0848,Customer Q,customer848@example.com,2036-03-30,Wielka Brytania
+CUST0849,Customer R,customer849@example.com,2036-04-06,Niemcy
+CUST0850,Customer S,customer850@example.com,2036-04-13,Niemcy
+CUST0851,Customer T,customer851@example.com,2036-04-20,Polska
+CUST0852,Customer U,customer852@example.com,2036-04-27,Francja
+CUST0853,Customer V,customer853@example.com,2036-05-04,Polska
+CUST0854,Customer W,customer854@example.com,2036-05-11,USA
+CUST0855,Customer X,customer855@example.com,2036-05-18,Polska
+CUST0856,Customer Y,customer856@example.com,2036-05-25,Polska
+CUST0857,Customer Z,customer857@example.com,2036-06-01,Polska
+CUST0858,Customer A,customer858@example.com,2036-06-08,Polska
+CUST0859,Customer B,customer859@example.com,2036-06-15,Niemcy
+CUST0860,Customer C,customer860@example.com,2036-06-22,Polska
+CUST0861,Customer D,customer861@example.com,2036-06-29,Francja
+CUST0862,Customer E,customer862@example.com,2036-07-06,Polska
+CUST0863,Customer F,customer863@example.com,2036-07-13,Niemcy
+CUST0864,Customer G,customer864@example.com,2036-07-20,Polska
+CUST0865,Customer H,customer865@example.com,2036-07-27,Polska
+CUST0866,Customer I,customer866@example.com,2036-08-03,Niemcy
+CUST0867,Customer J,customer867@example.com,2036-08-10,Polska
+CUST0868,Customer K,customer868@example.com,2036-08-17,Polska
+CUST0869,Customer L,customer869@example.com,2036-08-24,USA
+CUST0870,Customer M,customer870@example.com,2036-08-31,Wielka Brytania
+CUST0871,Customer N,customer871@example.com,2036-09-07,Polska
+CUST0872,Customer O,customer872@example.com,2036-09-14,Polska
+CUST0873,Customer P,customer873@example.com,2036-09-21,Niemcy
+CUST0874,Customer Q,customer874@example.com,2036-09-28,Polska
+CUST0875,Customer R,customer875@example.com,2036-10-05,Polska
+CUST0876,Customer S,customer876@example.com,2036-10-12,Polska
+CUST0877,Customer T,customer877@example.com,2036-10-19,Francja
+CUST0878,Customer U,customer878@example.com,2036-10-26,Niemcy
+CUST0879,Customer V,customer879@example.com,2036-11-02,Polska
+CUST0880,Customer W,customer880@example.com,2036-11-09,Polska
+CUST0881,Customer X,customer881@example.com,2036-11-16,Polska
+CUST0882,Customer Y,customer882@example.com,2036-11-23,Niemcy
+CUST0883,Customer Z,customer883@example.com,2036-11-30,Polska
+CUST0884,Customer A,customer884@example.com,2036-12-07,Polska
+CUST0885,Customer B,customer885@example.com,2036-12-14,Francja
+CUST0886,Customer C,customer886@example.com,2036-12-21,Polska
+CUST0887,Customer D,customer887@example.com,2036-12-28,Niemcy
+CUST0888,Customer E,customer888@example.com,2037-01-04,Polska
+CUST0889,Customer F,customer889@example.com,2037-01-11,Polska
+CUST0890,Customer G,customer890@example.com,2037-01-18,Polska
+CUST0891,Customer H,customer891@example.com,2037-01-25,Francja
+CUST0892,Customer I,customer892@example.com,2037-02-01,USA
+CUST0893,Customer J,customer893@example.com,2037-02-08,USA
+CUST0894,Customer K,customer894@example.com,2037-02-15,Polska
+CUST0895,Customer L,customer895@example.com,2037-02-22,Niemcy
+CUST0896,Customer M,customer896@example.com,2037-03-01,Polska
+CUST0897,Customer N,customer897@example.com,2037-03-08,Polska
+CUST0898,Customer O,customer898@example.com,2037-03-15,USA
+CUST0899,Customer P,customer899@example.com,2037-03-22,Polska
+CUST0900,Customer Q,customer900@example.com,2037-03-29,Polska
+CUST0901,Customer R,customer901@example.com,2037-04-05,Polska
+CUST0902,Customer S,customer902@example.com,2037-04-12,Polska
+CUST0903,Customer T,customer903@example.com,2037-04-19,Polska
+CUST0904,Customer U,customer904@example.com,2037-04-26,Niemcy
+CUST0905,Customer V,customer905@example.com,2037-05-03,Polska
+CUST0906,Customer W,customer906@example.com,2037-05-10,USA
+CUST0907,Customer X,customer907@example.com,2037-05-17,USA
+CUST0908,Customer Y,customer908@example.com,2037-05-24,Polska
+CUST0909,Customer Z,customer909@example.com,2037-05-31,Polska
+CUST0910,Customer A,customer910@example.com,2037-06-07,Polska
+CUST0911,Customer B,customer911@example.com,2037-06-14,Niemcy
+CUST0912,Customer C,customer912@example.com,2037-06-21,Polska
+CUST0913,Customer D,customer913@example.com,2037-06-28,Niemcy
+CUST0914,Customer E,customer914@example.com,2037-07-05,Polska
+CUST0915,Customer F,customer915@example.com,2037-07-12,Niemcy
+CUST0916,Customer G,customer916@example.com,2037-07-19,Polska
+CUST0917,Customer H,customer917@example.com,2037-07-26,Polska
+CUST0918,Customer I,customer918@example.com,2037-08-02,Wielka Brytania
+CUST0919,Customer J,customer919@example.com,2037-08-09,Francja
+CUST0920,Customer K,customer920@example.com,2037-08-16,Polska
+CUST0921,Customer L,customer921@example.com,2037-08-23,USA
+CUST0922,Customer M,customer922@example.com,2037-08-30,Polska
+CUST0923,Customer N,customer923@example.com,2037-09-06,USA
+CUST0924,Customer O,customer924@example.com,2037-09-13,Francja
+CUST0925,Customer P,customer925@example.com,2037-09-20,Polska
+CUST0926,Customer Q,customer926@example.com,2037-09-27,Polska
+CUST0927,Customer R,customer927@example.com,2037-10-04,Polska
+CUST0928,Customer S,customer928@example.com,2037-10-11,Niemcy
+CUST0929,Customer T,customer929@example.com,2037-10-18,Niemcy
+CUST0930,Customer U,customer930@example.com,2037-10-25,Polska
+CUST0931,Customer V,customer931@example.com,2037-11-01,Polska
+CUST0932,Customer W,customer932@example.com,2037-11-08,USA
+CUST0933,Customer X,customer933@example.com,2037-11-15,Wielka Brytania
+CUST0934,Customer Y,customer934@example.com,2037-11-22,Niemcy
+CUST0935,Customer Z,customer935@example.com,2037-11-29,Polska
+CUST0936,Customer A,customer936@example.com,2037-12-06,Polska
+CUST0937,Customer B,customer937@example.com,2037-12-13,Polska
+CUST0938,Customer C,customer938@example.com,2037-12-20,Wielka Brytania
+CUST0939,Customer D,customer939@example.com,2037-12-27,Polska
+CUST0940,Customer E,customer940@example.com,2038-01-03,Niemcy
+CUST0941,Customer F,customer941@example.com,2038-01-10,Polska
+CUST0942,Customer G,customer942@example.com,2038-01-17,Niemcy
+CUST0943,Customer H,customer943@example.com,2038-01-24,Niemcy
+CUST0944,Customer I,customer944@example.com,2038-01-31,USA
+CUST0945,Customer J,customer945@example.com,2038-02-07,Polska
+CUST0946,Customer K,customer946@example.com,2038-02-14,Polska
+CUST0947,Customer L,customer947@example.com,2038-02-21,Polska
+CUST0948,Customer M,customer948@example.com,2038-02-28,Wielka Brytania
+CUST0949,Customer N,customer949@example.com,2038-03-07,USA
+CUST0950,Customer O,customer950@example.com,2038-03-14,Niemcy
+CUST0951,Customer P,customer951@example.com,2038-03-21,Niemcy
+CUST0952,Customer Q,customer952@example.com,2038-03-28,Niemcy
+CUST0953,Customer R,customer953@example.com,2038-04-04,Polska
+CUST0954,Customer S,customer954@example.com,2038-04-11,Wielka Brytania
+CUST0955,Customer T,customer955@example.com,2038-04-18,Polska
+CUST0956,Customer U,customer956@example.com,2038-04-25,Polska
+CUST0957,Customer V,customer957@example.com,2038-05-02,Niemcy
+CUST0958,Customer W,customer958@example.com,2038-05-09,Polska
+CUST0959,Customer X,customer959@example.com,2038-05-16,Polska
+CUST0960,Customer Y,customer960@example.com,2038-05-23,Francja
+CUST0961,Customer Z,customer961@example.com,2038-05-30,Polska
+CUST0962,Customer A,customer962@example.com,2038-06-06,Niemcy
+CUST0963,Customer B,customer963@example.com,2038-06-13,Polska
+CUST0964,Customer C,customer964@example.com,2038-06-20,Polska
+CUST0965,Customer D,customer965@example.com,2038-06-27,Polska
+CUST0966,Customer E,customer966@example.com,2038-07-04,Polska
+CUST0967,Customer F,customer967@example.com,2038-07-11,Francja
+CUST0968,Customer G,customer968@example.com,2038-07-18,Polska
+CUST0969,Customer H,customer969@example.com,2038-07-25,Niemcy
+CUST0970,Customer I,customer970@example.com,2038-08-01,Polska
+CUST0971,Customer J,customer971@example.com,2038-08-08,Niemcy
+CUST0972,Customer K,customer972@example.com,2038-08-15,Wielka Brytania
+CUST0973,Customer L,customer973@example.com,2038-08-22,Francja
+CUST0974,Customer M,customer974@example.com,2038-08-29,Polska
+CUST0975,Customer N,customer975@example.com,2038-09-05,Polska
+CUST0976,Customer O,customer976@example.com,2038-09-12,Polska
+CUST0977,Customer P,customer977@example.com,2038-09-19,Niemcy
+CUST0978,Customer Q,customer978@example.com,2038-09-26,Polska
+CUST0979,Customer R,customer979@example.com,2038-10-03,Polska
+CUST0980,Customer S,customer980@example.com,2038-10-10,Niemcy
+CUST0981,Customer T,customer981@example.com,2038-10-17,Polska
+CUST0982,Customer U,customer982@example.com,2038-10-24,Francja
+CUST0983,Customer V,customer983@example.com,2038-10-31,Polska
+CUST0984,Customer W,customer984@example.com,2038-11-07,Polska
+CUST0985,Customer X,customer985@example.com,2038-11-14,Francja
+CUST0986,Customer Y,customer986@example.com,2038-11-21,Polska
+CUST0987,Customer Z,customer987@example.com,2038-11-28,Niemcy
+CUST0988,Customer A,customer988@example.com,2038-12-05,Polska
+CUST0989,Customer B,customer989@example.com,2038-12-12,Polska
+CUST0990,Customer C,customer990@example.com,2038-12-19,USA
+CUST0991,Customer D,customer991@example.com,2038-12-26,Francja
+CUST0992,Customer E,customer992@example.com,2039-01-02,Niemcy
+CUST0993,Customer F,customer993@example.com,2039-01-09,Polska
+CUST0994,Customer G,customer994@example.com,2039-01-16,Niemcy
+CUST0995,Customer H,customer995@example.com,2039-01-23,Polska
+CUST0996,Customer I,customer996@example.com,2039-01-30,Polska
+CUST0997,Customer J,customer997@example.com,2039-02-06,Wielka Brytania
+CUST0998,Customer K,customer998@example.com,2039-02-13,Polska
+CUST0999,Customer L,customer999@example.com,2039-02-20,Wielka Brytania
+CUST1000,Customer M,customer1000@example.com,2039-02-27,Polska

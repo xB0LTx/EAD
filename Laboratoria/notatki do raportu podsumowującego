@@ -1,0 +1,5 @@
+Kolumny:
+- customer_id - unikalny identyfikator klienta, format tekstowy
+- total_order_value - całkowita kwota wydana w sklepie przez klienta, format float z dokładnością do dwóch miejsc po przecinku
+- most_common_category - najczęściej kupowana przez klienta kategoria w sklepie
+- high_value_order_percent - procent zamówień klienta, które przekroczyły kwotę 1000, format float z dokładnością do dwóch miejsc po przecinku
